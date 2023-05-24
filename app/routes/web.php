@@ -9,6 +9,11 @@ $router->addRoute('GET', '/project', function () { \Unified\Lithium\Store\View::
 $router->addRoute('GET', '/project/zinc', function () { \Unified\Lithium\Store\View::get('projects/zinc', 'Zinc'); });
 $router->addRoute('GET', '/project/lithium', function () { \Unified\Lithium\Store\View::get('projects/lithium', 'Lithium'); });
 
+$router->addRoute('GET', '/project/lithium/docs', function () {
+  \Unified\Lithium\Store\Component::header('docsheader', 'Lithium - Documentation');
+  \Unified\Lithium\Store\View::bget('docs/lithium');
+});
+
 $router->addRoute('GET', '/patreon', function () { header("Location: https://www.patreon.com/unifiedorg"); });
 $router->addRoute('GET', '/kofi', function () { header("Location: https://ko-fi.com/unified"); });
 

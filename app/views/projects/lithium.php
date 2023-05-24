@@ -68,7 +68,7 @@
             </p>
             <a
               class="group relative inline-block text-sm font-medium text-white focus:outline-none focus:ring"
-              href="/login"
+              href="#download"
               >
             <span
               class="absolute inset-0 border border-white group-active:border-gray-400"
@@ -101,20 +101,23 @@
           <span
             class="block border border-current bg-black px-8 py-2 transition-transform group-hover:-translate-x-1 group-hover:-translate-y-1"
             >
-          v0.5.0
+          v0.5.0 (Outdated)
           </span>
           </a>
+
           <a
-            class="group relative inline-block text-sm font-medium text-white focus:outline-none focus:ring active:text-gray-400"
-            href="#"
-            >
-          <span class="absolute inset-0 border border-current"></span>
-          <span
-            class="block border border-current bg-black px-8 py-2 transition-transform group-hover:-translate-x-1 group-hover:-translate-y-1"
-            >
-          v1.0.0 (Coming soon)
-          </span>
-          </a>
+              class="group relative inline-block text-sm font-medium text-white focus:outline-none focus:ring"
+              href="https://github.com/unifiedorg/lithium-php/releases/tag/v1.0.0"
+              >
+            <span
+              class="absolute inset-0 border border-white group-active:border-gray-400"
+              ></span>
+            <span
+              class="block border text-black border-white bg-white px-8 py-2 transition-transform active:border-gray-400 active:bg-gray-400 group-hover:-translate-x-1 group-hover:-translate-y-1"
+              >
+            v1.0.0 (Recommended)
+            </span>
+            </a>
         </div>
       </div>
     </div>

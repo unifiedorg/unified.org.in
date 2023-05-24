@@ -61,7 +61,7 @@
             <ul class="space-y-4 text-sm">
               <li>
                 <a
-                  href="https://unified.org.in/"
+                  href="/"
                   class="relative font-medium text-gray-300 hover:text-white before:absolute before:-bottom-1 before:h-0.5 before:w-full before:origin-right before:scale-x-0 before:bg-gradient-to-l before:from-pink-500 before:via-red-500 before:to-yellow-500 before:transition hover:before:scale-100"
                   >
                 Home
@@ -84,7 +84,7 @@
             <ul class="space-y-4 text-sm">
               <li>
                 <a
-                  href="https://unified.org.in/#about"
+                  href="/#about"
                   class="relative font-medium text-gray-300 hover:text-white before:absolute before:-bottom-1 before:h-0.5 before:w-full before:origin-right before:scale-x-0 before:bg-gradient-to-l before:from-pink-500 before:via-red-500 before:to-yellow-500 before:transition hover:before:scale-100"
                   >
                 About
@@ -101,7 +101,7 @@
           <ul class="flex flex-wrap gap-4 text-xs">
             <li>
               <a
-                href="https://unified.org.in/toc"
+                href="/toc"
                 class="relative font-medium text-gray-500 before:absolute before:-bottom-1 before:h-0.5 before:w-full before:origin-right before:scale-x-0 before:bg-gradient-to-l before:from-pink-500 before:via-red-500 before:to-yellow-500 before:transition hover:before:scale-100 hover:text-gray-400"
                 >
               Terms & Conditions
@@ -109,7 +109,7 @@
             </li>
             <li>
               <a
-                href="https://unified.org.in/privacy"
+                href="/privacy"
                 class="relative font-medium text-gray-500 before:absolute before:-bottom-1 before:h-0.5 before:w-full before:origin-right before:scale-x-0 before:bg-gradient-to-l before:from-pink-500 before:via-red-500 before:to-yellow-500 before:transition hover:before:scale-100 hover:text-gray-400"
                 >
               Privacy Policy
